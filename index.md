@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](Icon 512x512.png) and ![Image](src)
+[Link](https://haradanspy.github.io/GameOfFrogPage/Icon 512x512.png) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
